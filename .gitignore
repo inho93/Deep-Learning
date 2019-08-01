@@ -1,0 +1,7 @@
+venv/
+.idea/
+basic/.ipynb_checkpoints/
+dataset/t10k*
+dataset/train*
+dataset/__pycache__
+mnist.pkl
